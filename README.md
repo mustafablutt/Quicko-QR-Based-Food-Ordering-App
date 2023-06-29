@@ -1,5 +1,6 @@
 
-![self-ordering](https://github.com/mustafablutt/Quicko-QR-Based-Food-Ordering-App/assets/80100508/5320d9f8-05a3-4da6-aef1-7bfc9ef99bf4)
+![self-ordering](https://github.com/mustafablutt/Quicko-QR-Based-Food-Ordering-App/assets/80100508/a411b9ad-8864-45a1-88df-e8d304b9e834)
+
 
 
 # Quicko: QR-Based Food Ordering App
