@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "836935690091",
+    "project_id": "quicko-a6c6e",
+    "storage_bucket": "quicko-a6c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836935690091:android:c9398b0e4589d2f1ad4e2e",
+        "android_client_info": {
+          "package_name": "com.example.quicko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836935690091-fpbfon64gij85j9m5n13cdqoscp441ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quicko",
+            "certificate_hash": "67c0ad996ba587ccb854fd88750836f2a8162dce"
+          }
+        },
+        {
+          "client_id": "836935690091-9bic0m1bs60p7kc3pvoqcrc3gmkglfoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ6q-joTezi6gesBLUZ7CaXb6W0QFHjrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836935690091-9bic0m1bs60p7kc3pvoqcrc3gmkglfoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
